@@ -8,10 +8,13 @@
 [stars-url]: https://github.com/damahecode/DamaheCode-List/stargazers
 [issues-shield]: https://img.shields.io/github/issues/damahecode/DamaheCode-List.svg?style=for-the-badge
 [issues-url]: https://github.com/damahecode/DamaheCode-List/issues
+[visitor-shield]: https://komarev.com/ghpvc/?username=damahecode&label=Visitors&style=for-the-badge
+[visitor-url]: https://github.com/damahecode/DamaheCode-List
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Visitors][visitor-shield]][visitor-url]
 
 # App-List
