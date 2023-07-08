@@ -1,5 +1,3 @@
-# App-List
-
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/damahecode/DamaheCode-List.svg?style=for-the-badge
@@ -15,3 +13,5 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+
+# App-List
