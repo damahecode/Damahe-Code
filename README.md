@@ -30,3 +30,9 @@
 | A Collection on all Jetpack compose UI Layouts, Demo screens to see it's potential.<br><br> Link :- [Google Play](https://play.google.com/store/apps/details?id=com.code.damahe.jetpack.compose.ui)  < - >  [Source Code](https://github.com/damahecode/Jetpack-Compose-UI) | Image |
 | Weather | |
 | A demo implementation of Weather API in Android App.<br><br> Link :- [Demo app](https://github.com/damahecode/Weather/releases)  < - >  [Source Code](https://github.com/damahecode/Weather) | Image |
+
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://damahecode.blogspot.com/2023/07/donate-to-damahe-code.html)
