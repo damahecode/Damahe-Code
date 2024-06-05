@@ -28,6 +28,10 @@
 | A Material Design-based Theme Management System for Android Jetpack Compose.<br><br> Link :- [Coming soon..](https://play.google.com/store/apps/details?id=com.code.damahe.material.theme)  < - >  [Source Code](https://github.com/damahecode/Material-Theme) | Image |
 | Jetpack-Compose-UI | |
 | A Collection on all Jetpack compose UI Layouts, Demo screens to see it's potential.<br><br> Link :- [Google Play](https://play.google.com/store/apps/details?id=com.code.damahe.jetpack.compose.ui)  < - >  [Source Code](https://github.com/damahecode/Jetpack-Compose-UI) | Image |
+| Leaf Music Player | |
+| Music Player for Android.<br><br> Link :- [Demo app](https://github.com/damahecode/Leaf-Music-Player/releases)  < - >  [Source Code](https://github.com/damahecode/Leaf-Music-Player) | Image |
+| Chat App | |
+| A Chat App for Android using Firebase.<br><br> Link :- [Demo app](https://github.com/damahecode/Chat-App/releases)  < - >  [Source Code](https://github.com/damahecode/Chat-App) | Image |
 | Weather | |
 | A demo implementation of Weather API in Android App.<br><br> Link :- [Demo app](https://github.com/damahecode/Weather/releases)  < - >  [Source Code](https://github.com/damahecode/Weather) | Image |
 
