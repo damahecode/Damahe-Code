@@ -14,12 +14,6 @@ A feature-rich file transfer application with a beautiful UI. Transfer files bet
 
 ---
 
-### 🎮 Bounce Tales (Old Nokia Game)
-Relive old memories with Bounce Tales a Nokia game.
-- 📌 [Google Play](https://play.google.com/store/apps/details?id=com.tales.bounce)
-
----
-
 ### 🎮 Diamond Rush (Old Nokia Game)
 Relive the Nostalgia of Diamond Rush a Nokia game.
 - 📌 [Google Play](https://play.google.com/store/apps/details?id=com.game.diamond.rush)
@@ -43,34 +37,6 @@ A collection of Jetpack Compose UI layouts and demo screens showcasing its poten
 A **Material Design-based** Theme Management System for Jetpack Compose.
 - 📌 [Demo App](https://github.com/damahecode/Material-Theme/releases)
 - 🛠️ [Source Code](https://github.com/damahecode/Material-Theme)
-
----
-
-### 📰 DCode News
-A simple **News API integration demo** using Jetpack Compose.
-- 📌 [Demo App](https://github.com/damahecode/DCode-News/releases)
-- 🛠️ [Source Code](https://github.com/damahecode/DCode-News)
-
----
-
-### 🎵 Leaf Music Player
-A **simple music player demo** for Android.
-- 📌 [Demo App](https://github.com/damahecode/Leaf-Music-Player/releases)
-- 🛠️ [Source Code](https://github.com/damahecode/Leaf-Music-Player)
-
----
-
-### 💬 Chat App
-A **Firebase-based chat app demo implementation** for Android.
-- 📌 [Demo App](https://github.com/damahecode/Chat-App/releases)
-- 🛠️ [Source Code](https://github.com/damahecode/Chat-App)
-
----
-
-### ☁️ Weather App
-A **Weather API demo implementation** for Android.
-- 📌 [Demo App](https://github.com/damahecode/Weather/releases)
-- 🛠️ [Source Code](https://github.com/damahecode/Weather)
 
 ---
 
